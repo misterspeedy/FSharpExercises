@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpExercises", "FSharpExercises\FSharpExercises.fsproj", "{2AF0345C-C38C-489F-B150-60869AA797A3}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Underground", "FSharpExercises\Underground.fsproj", "{2AF0345C-C38C-489F-B150-60869AA797A3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sundays", "Sundays\Sundays.fsproj", "{AC91CD3A-151B-47A0-A6F7-6D12B19D1C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2AF0345C-C38C-489F-B150-60869AA797A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AF0345C-C38C-489F-B150-60869AA797A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AF0345C-C38C-489F-B150-60869AA797A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC91CD3A-151B-47A0-A6F7-6D12B19D1C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC91CD3A-151B-47A0-A6F7-6D12B19D1C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC91CD3A-151B-47A0-A6F7-6D12B19D1C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC91CD3A-151B-47A0-A6F7-6D12B19D1C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
