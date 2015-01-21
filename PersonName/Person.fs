@@ -35,5 +35,6 @@ module NameFormatting =
 //    First and middle are populated but surname is not: output is "(No surname), FFFF MMMM
 //
 //    Only one field populated: output is "XXXX" where "XXXX" is the content of the one populated field
+//
 //    All fields missing: output is "(Unknown)"
 //
